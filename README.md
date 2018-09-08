@@ -1,0 +1,2 @@
+# MyLearningOfPython
+My first text.
